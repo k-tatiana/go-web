@@ -1,0 +1,8 @@
+go 1.19
+
+use (
+	./lesson_2_routing
+	./lesson_4_json
+	./lesson_5_validation
+	./lesson_6_forms
+)
